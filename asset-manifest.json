@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/vivero-front/static/css/main.a84997f2.chunk.css",
+    "main.js": "/vivero-front/static/js/main.816a36a7.chunk.js",
+    "main.js.map": "/vivero-front/static/js/main.816a36a7.chunk.js.map",
+    "runtime-main.js": "/vivero-front/static/js/runtime-main.cb8d06bb.js",
+    "runtime-main.js.map": "/vivero-front/static/js/runtime-main.cb8d06bb.js.map",
+    "static/js/2.69284f5f.chunk.js": "/vivero-front/static/js/2.69284f5f.chunk.js",
+    "static/js/2.69284f5f.chunk.js.map": "/vivero-front/static/js/2.69284f5f.chunk.js.map",
+    "index.html": "/vivero-front/index.html",
+    "precache-manifest.5f4fb46e5ce6d3f06e7a8383f523490c.js": "/vivero-front/precache-manifest.5f4fb46e5ce6d3f06e7a8383f523490c.js",
+    "service-worker.js": "/vivero-front/service-worker.js",
+    "static/css/main.a84997f2.chunk.css.map": "/vivero-front/static/css/main.a84997f2.chunk.css.map",
+    "static/media/Pgloriosum.jpg": "/vivero-front/static/media/Pgloriosum.33e80f83.jpg"
+  }
+}
